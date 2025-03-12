@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/perry/Desktop/pythonxdd_pract/venv
+set -gx VIRTUAL_ENV '/home/ka/Área de Trabalho/python-django/venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
